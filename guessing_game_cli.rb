@@ -13,5 +13,4 @@ def run_guessing_game
   if guess == "exit"
     puts "Goodbye!"
   end
-  binding.pry
 end
